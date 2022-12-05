@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axelcureno
 - 👀 I’m interested in software development, landscape photography and the outdoors
-- 🌱 I’m currently learning Adobe Franklin, React.js and the latest web technologies
+- 🌱 I’m currently working on Milo, a really cool head-less CMS from Adobe, based on Franklin.
 - 💞️ I’m looking to collaborate on JavaScript and Android projects.
 - 📫 I'm reachable at axelcureno.com or contact@axelcureno.com
 
